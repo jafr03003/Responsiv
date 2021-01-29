@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	display:grid;
+	grid-template-columns: 1fr 1fr ;
+	grid-template-rows:50vh 50vh;
+}
+div.grön{
+	background-color:green;
+}
+div.röd{
+	background-color:red;
+}
+div.blå{
+	background-color:blue;
+}
+div.svart{
+	background-color:black;
+}
+h1{
+	font-size:10vh;
+}
